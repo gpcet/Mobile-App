@@ -10,7 +10,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "presets" : {"url": "http://103.24.127.199:8090/onlinecourses"},
-    "siteurl": "http://103.24.127.199:8090/onlinecourses",
+    "siteurl": {"http://103.24.127.199:8090/onlinecourses","username": ""},
     "demo_sites": [],
     "gcmpn": "694767596569",
     "customurlscheme": "MSMF mobile",
