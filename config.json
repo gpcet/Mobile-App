@@ -13,7 +13,7 @@
     "gcmpn": "694767596569",
     "customurlscheme": "MSMF mobile",
     "presets" : {"url": "https://103.24.127.199:8090/onlinecourses"},
-    "multisitesdisplay": "select",
+    "multisitesdisplay": "false",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://online.msmfclasses.com"
